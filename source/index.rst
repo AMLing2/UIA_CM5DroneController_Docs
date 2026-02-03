@@ -10,6 +10,8 @@ Welcome to UIA_CM5DroneController_Docs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   spi
+
 
 
 Indices and tables
